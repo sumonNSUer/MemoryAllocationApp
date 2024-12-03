@@ -1,5 +1,5 @@
 # MemoryAllocationApp
-Memory Allocation Visualizer is an interactive application designed to help users understand and visualize how memory allocation works in a computer system.
+Memory Allocation App is an interactive application designed to help users understand and visualize how memory allocation works in a computer system.
 The app allows users to dynamically define memory size, specify blocked memory regions, and allocate memory pages.
 It provides a graphical representation of free and allocated memory blocks, making it an ideal learning tool for students and enthusiasts of operating systems and memory management.
 
